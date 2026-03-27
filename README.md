@@ -1,4 +1,4 @@
-# [OpenList-Proxy] - 存档镜像
+# [OpenList-Proxy](https://github.com/OpenListTeam/OpenList-Proxy) - 存档镜像
 
 此仓库是 [OpenList-Proxy](https://github.com/OpenListTeam/OpenList-Proxy) Action的存档版本。
 
